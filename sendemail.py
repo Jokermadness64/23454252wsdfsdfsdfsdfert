@@ -3,10 +3,10 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Update these settings with the provided SMTP configuration
-smtp_server = "premium186.web-hosting.com"
+smtp_server = "smtp.mail.yahoo.com"
 smtp_port = 465  # SSL port for SMTP
-smtp_username = "payments@intaree.com"
-smtp_password = "RIYAD2580"  # Replace with the actual password
+smtp_username = "Ali.ali073@yahoo.com"
+smtp_password = "Mala514$"  # Replace with the actual password
 
 # Sender
 from_email = smtp_username
