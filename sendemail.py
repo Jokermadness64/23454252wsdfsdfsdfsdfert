@@ -4,16 +4,9 @@ from email.mime.multipart import MIMEMultipart
 
 # Define SMTP configurations
 smtp_configurations = [
-    {"smtp_username": "admin@intaree.com"},
-    {"smtp_username": "fdgdfgdgdfg@intaree.com"},
-    {"smtp_username": "nicholas@intaree.com"},
-    {"smtp_username": "payment@intaree.com"},
     {"smtp_username": "payments@intaree.com"},
-    {"smtp_username": "payments@interae.xyz"},
-    {"smtp_username": "peymants@interae.xyz"},
-    {"smtp_username": "return@intaree.com"},
-    {"smtp_username": "refund@intaree.com"},
-    {"smtp_username": "help@interae.xyz"}
+    {"smtp_username": "refund.gov@intaree.com"},
+    {"smtp_username": "paymants@intaree.com"},
 ]
 
 smtp_server = "premium186.web-hosting.com"
